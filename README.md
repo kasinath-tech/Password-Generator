@@ -10,7 +10,6 @@ Generates cryptographically strong passwords using Python's `secrets` module.
 - Generate passwords of any length.
 - Include letters, numbers, and/or symbols based on user choice.
 - Handles invalid input gracefully.
-- Optional: save generated passwords to a file (`passwords.txt`).
 - Cryptographically secure (uses `secrets` module).
 
 ---
